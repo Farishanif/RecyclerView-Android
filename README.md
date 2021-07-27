@@ -1,6 +1,6 @@
 # RecyclerView-Android
 
-Membuat aplikasi yang merecycler view dari beberpa model tampilan list, yaitu:
+Making application that recycler view from some list view, with three kind of view:
 - grid view
 - list view
 - card view
